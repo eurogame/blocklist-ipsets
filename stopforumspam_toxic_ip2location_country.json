@@ -1,0 +1,30 @@
+[
+	{
+		"code": "DE",
+		"value": 16
+	},
+	{
+		"code": "FR",
+		"value": 16384
+	},
+	{
+		"code": "GB",
+		"value": 18176
+	},
+	{
+		"code": "RO",
+		"value": 512
+	},
+	{
+		"code": "RU",
+		"value": 3072
+	},
+	{
+		"code": "UA",
+		"value": 1792
+	},
+	{
+		"code": "US",
+		"value": 79931
+	}
+]

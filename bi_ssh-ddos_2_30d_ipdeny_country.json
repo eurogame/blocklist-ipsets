@@ -1,0 +1,30 @@
+[
+	{
+		"code": "AT",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 1
+	},
+	{
+		"code": "RO",
+		"value": 1
+	},
+	{
+		"code": "SG",
+		"value": 1
+	},
+	{
+		"code": "UA",
+		"value": 1
+	},
+	{
+		"code": "US",
+		"value": 2
+	},
+	{
+		"code": "ZA",
+		"value": 1
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"code": "AT",
+		"value": 1
+	},
+	{
+		"code": "BY",
+		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 1
+	},
+	{
+		"code": "RO",
+		"value": 2
+	},
+	{
+		"code": "RU",
+		"value": 12
+	},
+	{
+		"code": "UA",
+		"value": 2
+	}
+]
